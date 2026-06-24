@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sharjeel+Ahmed" alt="Typing SVG" />
-
-<h3 align="center">Frontend Developer</h3>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sharjeel+Ahmed;Frontend+Developer;JavaScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" /> </div>
 
 <p align="center">
 Building modern, responsive and user-friendly web applications.
