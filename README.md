@@ -1,63 +1,43 @@
-<h1 align="center">Sharjeel Ahmed</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sharjeel+Ahmed" alt="Typing SVG" />
+
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;Firebase+Learner;Building+Modern+Web+Apps" />
+Building modern, responsive and user-friendly web applications.
 </p>
 
-<p align="center">
-Frontend Developer focused on building clean, responsive and interactive web applications using modern web technologies.
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack
 
-- 💻 Passionate Frontend Developer
-- 🌱 Currently improving Advanced JavaScript & Firebase
-- 🚀 Focused on real-world projects
-- 🎯 Goal: Become Full Stack Developer
-- 📍 Pakistan
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode" />
+</div>
 
 ---
 
-## ⚒️ Tech Stack
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
 
-## 🚀 Projects
+</div>
 
-- ✔ Todo App (CRUD with Firebase)
-- ✔ Authentication System (Login/Signup)
-- ✔ Portfolio Website
-- ✔ Weather App (API Integration)
-
----
-
-## 📈 Current Goals
-
-- React JS
-- Node JS
-- Backend Development
-- Open Source Contribution
-
----
-
-## 📫 Contact
+## 🌐 Connect With Me
 
 <p align="center">
-📧 Email: sharjeelahmed617458@gmail.com <br/>
-💼 GitHub: https://github.com/sharjeelahmed25
-</p>
-
----
-
-<p align="center">
-⭐ Building one project at a time
+  <a href="sharjeelahmed617458@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.facebook.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
