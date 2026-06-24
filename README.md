@@ -52,7 +52,7 @@ Frontend Developer focused on building clean, responsive and interactive web app
 ## 📫 Contact
 
 <p align="center">
-📧 Email: your-email@example.com <br/>
+📧 Email: sharjeelahmed617458@gmail.com <br/>
 💼 GitHub: https://github.com/sharjeelahmed25
 </p>
 
