@@ -1,6 +1,7 @@
-# Hi, I'm Sharjeel Ahmed 👋
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Learner;Firebase+Explorer;Building+Web+Apps)
+# Hi, I'm Sharjeel Ahmed 👋
 🚀 Frontend Developer | JavaScript Enthusiast | Firebase Learner
 
 ---
