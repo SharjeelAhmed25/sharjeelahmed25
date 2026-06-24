@@ -1,16 +1,40 @@
-## Hi there 👋
+# Sharjeel Ahmed 👋
 
-<!--
-**SharjeelAhmed25/sharjeelahmed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | JavaScript Enthusiast | Firebase Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💻 I build modern web applications
+- 🌱 Currently learning Advanced JavaScript & Firebase
+- 🎯 Goal: Become Full Stack Developer
+- 📍 Based in Pakistan
+
+---
+
+## ⚒️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Firebase
+
+---
+
+## 🚀 Projects
+- Todo App (CRUD with Firebase)
+- Authentication System (Login/Signup)
+- Portfolio Website
+
+---
+
+## 📈 Goals for 2026
+- React JS
+- Node JS
+- Backend Development
+- Open Source Contribution
+
+---
+
+## 📫 Contact
+- Email: sharjeelahmed617458@gmail.com
+- GitHub: https://github.com/sharjeelahmed25
